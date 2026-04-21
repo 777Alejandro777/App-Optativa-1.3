@@ -1,0 +1,33 @@
+{
+  "name": "Mi Tienda - Nexum",
+  "short_name": "Mi Tienda",
+  "description": "Gestión de ventas, inventario, fiados y gastos para tiendas de barrio",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F0FFF4",
+  "theme_color": "#1B9E4E",
+  "lang": "es-CO",
+  "categories": ["business", "productivity", "finance"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
